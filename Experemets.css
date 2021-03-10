@@ -1,0 +1,66 @@
+a {
+  color:blue;
+  text-decoration: none;
+
+}
+a:hover {
+  border-bottom: 2px dashed blue;
+}
+html {
+    background-color: #ccc;
+    word-break: break-word;
+    word-spacing: 5px;
+    color:darkblue;
+    font-weight: bold;
+}
+.sup_[1] {
+  color:blue;
+  font-family: cursive;
+
+}
+.div_1 {
+  line-height: 1.9;
+  font-size: 14.5px;
+  font-weight: bold;
+  font-family: Tahoma;
+  opacity: 1;
+  color:purple;
+  border-left: 175px solid #ccc;
+  border-right: 100px solid #ccc;
+  border-bottom: 100px solid #ccc;
+}
+.gon__hunter_x_hunter {
+  color:red;
+  font-family: serif;
+  font-weight: bold;
+
+}
+.gon__hunter_x_hunter:hover {
+
+  border-bottom: 2.5px dashed darkred;
+}
+.kek {
+  word-spacing: normal;
+  color:green;
+  font-weight: bold;
+  border-left: 45px solid #ccc;
+}
+.new_kik {
+  word-spacing:5px;
+  color:darkorange;
+  font-weight: bold;
+}
+.new_kik:hover {
+  border-bottom: 2px dashed green;
+}
+.rozdil_version {
+  line-height: 1.9;
+  font-size: 14.5px;
+  font-weight: bold;
+  font-family: Tahoma;
+  opacity: 1;
+  color:purple;
+  border-left: 175px solid #ccc;
+  border-right: 100px solid #ccc;
+  border-bottom: 100px solid #ccc;
+}
